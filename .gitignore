@@ -1,0 +1,6 @@
+descargas/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.organizar_historial.json

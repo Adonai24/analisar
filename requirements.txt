@@ -1,0 +1,2 @@
+# Opcional: notificaciones de escritorio (--notificar)
+plyer>=2.1.0
